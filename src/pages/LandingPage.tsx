@@ -278,7 +278,7 @@ export function LandingPage() {
                 <motion.button
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  onClick={() => window.location.href = 'http://localhost:8080'}
+                  onClick={() => window.location.href = 'https://saa-s-student-git-main-abhasbalis-projects.vercel.app/'}
                   className="bg-gradient-to-r from-indigo-500 to-purple-500 text-white px-8 py-4 rounded-full
                     font-semibold text-lg flex items-center gap-2 hover:shadow-lg
                     hover:shadow-indigo-500/30 transition-all duration-300"
