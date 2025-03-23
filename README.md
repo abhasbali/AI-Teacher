@@ -53,7 +53,7 @@ Built for scalability, security, and efficiency, our SaaS solution bridges the g
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Mrktheone/AI-powered-Virtual-Teaching-Assistant-SaaS.git
+git clone https://github.com/abhasbali/AI-Teacher.git
 cd ai-saas
 ```
 
